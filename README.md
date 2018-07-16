@@ -8,6 +8,7 @@ application using the [Jasmine](https://jasmine.github.io) framework.
 - [Background](#background)
 - [Installation](#installation)
 - [Tests Included](#tests-included)
+- [Credits](#Credits)
 
 ## Background
 
@@ -46,3 +47,7 @@ The tests included are the following, and all of them are containted in feederea
 ### New Feed Selection
 
 * Ensure that switching to a new feed actually changes the content.
+
+## Credits
+
+Thanks to MOHAMED RIAAD for his Study Jam which was very helpful.
